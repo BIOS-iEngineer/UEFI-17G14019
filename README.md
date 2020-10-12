@@ -1,6 +1,5 @@
 # macOS High Sierra 10.13.6
 ### UEFI Clover v2.5 r5102 for HUANANZHI X99-F8 GAMING Motherboard under control CX99DE25 BIOS
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
 
 * #### How it work:
 
